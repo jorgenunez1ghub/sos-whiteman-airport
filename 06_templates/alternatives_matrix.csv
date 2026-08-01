@@ -1,0 +1,9 @@
+alternative_id,alternative_name,description,legal_feasibility,safety_impact,community_benefit,aviation_network_impact,economic_impact,fiscal_cost,schedule_risk,stakeholder_acceptability,reversibility,source_ids,notes
+A0,Status quo,Continue current operating model,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,,Baseline only
+A1,Modernize and mitigate,Retain airport with operational safety environmental and community mitigations,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,,
+A2,Community-benefit aviation model,Retain aviation while adding community-serving improvements and stronger governance,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,,
+A3,Hybrid partial reuse,Retain required aviation functions while repurposing portions where feasible,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,,
+A4,Phased transition,Move through FAA-dependent decision gates toward partial or full repurposing,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,,
+A5,Full closure and redevelopment,Close airport and redevelop site if legally approved,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,,
+A6,Future aviation and smart infrastructure pilot zone,Transform airport into a modernized aviation UAS emergency-response and workforce platform,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,,
+

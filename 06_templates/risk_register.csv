@@ -1,0 +1,5 @@
+risk_id,workstream,risk_statement,category,probability,impact,severity,owner,mitigation,status,source_ids
+R-001,FAA legal constraints,FAA release requirements make some closure or redevelopment alternatives infeasible without further justification,Legal,TBD,TBD,TBD,TBD,Build FAA constraints memo and closure feasibility checklist,open,"SRC-005,SRC-006"
+R-002,Stakeholder architecture,Public trust erodes if community health and safety concerns are treated as secondary,Stakeholder legitimacy,TBD,TBD,TBD,TBD,Include EJ and public health as core requirements,open,"SRC-002,SRC-003"
+R-003,Alternatives analysis,Study collapses into binary closure versus status quo framing,Analysis quality,TBD,TBD,TBD,TBD,Maintain multi-alternative matrix and no-regret options,open,"SRC-001,SRC-003"
+

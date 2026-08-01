@@ -1,0 +1,6 @@
+stakeholder_id,name,type,role_or_interest,authority,power,interest,position,risks_if_ignored,source_ids,notes
+STK-001,Federal Aviation Administration,Federal agency,Airport obligations and civil aviation network,High,High,High,TBD,Closure or release strategy may be infeasible,"SRC-005,SRC-006",
+STK-002,Los Angeles County Board of Supervisors,County government,Policy direction and final County action,High,High,High,TBD,Political legitimacy and implementation authority at risk,"SRC-002,SRC-003",
+STK-003,Pacoima residents and community groups,Community,Health safety land use and environmental justice,TBD,High,High,TBD,Public process may lose legitimacy,"SRC-002,SRC-003",
+STK-004,Airport tenants pilots and aviation businesses,Airport users,Economic activity aviation access and operational continuity,TBD,Medium,High,TBD,Economic and operational dependencies may be undercounted,"SRC-003,SRC-007",
+

@@ -1,0 +1,21 @@
+.DS_Store
+Thumbs.db
+
+# Local working files
+*.tmp
+*.bak
+~$*
+
+# Large/generated analysis outputs
+03_data/raw/*
+03_data/interim/*
+03_data/processed/*
+03_data/external/*
+03_data/gis/*
+04_models/**/outputs/*
+05_outputs/**/draft_exports/*
+
+# Preserve folder structure
+!**/.gitkeep
+!**/README.md
+
